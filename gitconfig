@@ -46,3 +46,6 @@
 
 [push]
 	default = simple
+[user]
+	email = so.prevost@gmail.com
+	name = soniaprevost
